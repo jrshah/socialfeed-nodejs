@@ -15,6 +15,7 @@
     "ejs": "^2.4.1",
     "express": "^4.13.4",
     "express-session": "^1.13.0",
+    "express-then": "^1.0.3",
     "mongoose": "^4.4.11",
     "morgan": "^1.7.0",
     "nodeifyit": "^1.0.2",
@@ -22,6 +23,8 @@
     "passport": "^0.3.2",
     "passport-facebook": "^2.1.0",
     "passport-local": "^1.0.0",
-    "songbird": "^1.0.2"
+    "passport-twitter": "^1.0.4",
+    "songbird": "^1.0.2",
+    "twitter": "^1.2.5"
   }
 }
